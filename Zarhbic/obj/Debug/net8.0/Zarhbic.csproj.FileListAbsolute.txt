@@ -1,0 +1,14 @@
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\bin\Debug\net8.0\Zarhbic.exe
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\bin\Debug\net8.0\Zarhbic.deps.json
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\bin\Debug\net8.0\Zarhbic.runtimeconfig.json
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\bin\Debug\net8.0\Zarhbic.dll
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\bin\Debug\net8.0\Zarhbic.pdb
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\obj\Debug\net8.0\Zarhbic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\obj\Debug\net8.0\Zarhbic.AssemblyInfoInputs.cache
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\obj\Debug\net8.0\Zarhbic.AssemblyInfo.cs
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\obj\Debug\net8.0\Zarhbic.csproj.CoreCompileInputs.cache
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\obj\Debug\net8.0\Zarhbic.dll
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\obj\Debug\net8.0\refint\Zarhbic.dll
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\obj\Debug\net8.0\Zarhbic.pdb
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\obj\Debug\net8.0\Zarhbic.genruntimeconfig.cache
+C:\Users\youss\RiderProjects\Zarhbic\Zarhbic\obj\Debug\net8.0\ref\Zarhbic.dll
